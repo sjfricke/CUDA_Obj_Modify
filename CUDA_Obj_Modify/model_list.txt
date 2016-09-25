@@ -1,0 +1,2 @@
+cudaObj/test.obj
+cudaObj/chair_1.obj
